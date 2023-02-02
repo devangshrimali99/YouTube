@@ -1,3 +1,18 @@
+# About The Project
+
+A Youtube Clone built using React JS, API from Rapid API and Material UI.
+
+[**Watch Live Demo**](https://youtube1442.netlify.app/ "**Watch Live Demo!**")
+[![](https://iili.io/H1M4C0J.png)](https://iili.io/H1M4C0J.png)
+
+#### **Features:**
+- Video Page with controlled video playback
+- Filtering videos by categories in sidebar
+- Search video or channel feature
+- Channel Page
+- Related videos section
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
